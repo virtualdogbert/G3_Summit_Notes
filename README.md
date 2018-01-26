@@ -31,6 +31,10 @@ Groovy Podcast Episodes 50 and 50.5:
 * https://www.youtube.com/watch?v=SZHeKHycKWk
 * https://www.youtube.com/watch?v=3NLPVfYLdGc
 
+G3 Summit Blog posts:
+* https://giri-tech.blogspot.com/2017/12/g3-summit-2017-great-experience.html
+* https://erichelgeson.github.io/blog/2017/12/02/g3summit/
+
 
 AST
 
@@ -78,4 +82,8 @@ Other Conferences:
 * http://gr8conf.us/
 * http://gr8conf.eu/#/
 * http://2018.greachconf.com/
+
+If you would like to get a Groovy/Grails tshirt like mine use the link below. I get some type of royalty for it that I've decided that I will just donate to a charity. I'm choosing Autism Speeks, just because I once saw Jeff Scott Brown tweet about it;
+
+https://www.customizedgirl.com/s/groovygrailsshwag
 
